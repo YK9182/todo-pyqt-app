@@ -54,6 +54,7 @@ JSONファイルによるタスク保存
 ---
 
 ## 📁 ディレクトリ構成（例）
+
 project/
 ├── task.py
 ├── todolist.py
