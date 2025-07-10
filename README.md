@@ -53,15 +53,9 @@ JSONファイルによるタスク保存
 
 ---
 
-## 📁 ディレクトリ構成（例）
+## 📁 ディレクトリ構成
 
-project/
-├── task.py
-├── todolist.py
-├── todo_PyQt.py
-├── tasks.json
-├── requirements.txt
-└── README.md
+ ``` project/ ├── task.py ├── todolist.py ├── todo_PyQt.py ├── tasks.json ├── requirements.txt └── README.md ```
 
 ---
 
