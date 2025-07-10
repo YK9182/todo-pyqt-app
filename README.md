@@ -31,6 +31,8 @@ GUI（PyQt5）とWeb（Flask）の2種類のインターフェースを実装し
 pip install -r requirements.txt
 python todo_PyQt.py
 
+---
+
 ## 🌐 Web版（Flask）
 使用ライブラリ
 Flask
@@ -39,6 +41,8 @@ Flask
 pip install -r requirements.txt
 python app.py
 Flask版は、http://localhost:5000 でアクセス可能です。
+
+---
 
 ## 🧪 使用技術
 Python 3.13.1
@@ -53,6 +57,8 @@ JSONファイルによるデータ保存
 
 仮想環境（venv）を使用
 
+---
+
 ## 📁 ディレクトリ構成
 
 project/
@@ -64,6 +70,8 @@ project/
 ├── requirements.txt
 └── README.md
 
+---
+
 ## 🎯 今後の展望（例）
 Web版のUI改善（HTML/CSSの装飾）
 
@@ -71,5 +79,7 @@ Web版のUI改善（HTML/CSSの装飾）
 
 タスクの並び替え（優先度順など）
 
-📝 ライセンス
+---
+
+## 📝 ライセンス
 このプロジェクトはMITライセンスのもとで公開されています。
