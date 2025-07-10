@@ -30,7 +30,7 @@ GUI（PyQt5）とWeb（Flask）の2種類のインターフェースを実装し
 ```bash
 pip install -r requirements.txt
 python todo_PyQt.py
-
+```
 ---
 
 ## 🌐 Web版（Flask）
